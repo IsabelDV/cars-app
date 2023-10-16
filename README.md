@@ -1,4 +1,4 @@
-# cocktail-app
+# cars-app
 
 ## Project setup
 ```
